@@ -1,2 +1,2 @@
-# Juli-n-Garcia
+# Proyecto
 Proyecto Julián garcia 
